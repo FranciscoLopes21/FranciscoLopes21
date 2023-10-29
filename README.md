@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[(https://github-readme-stats.vercel.app/api?username=FranciscoLopes1)](https://github.com/FranciscoLopes1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoLopes21)](https://github.com/FranciscoLopes21/github-readme-stats)
 
 <!--
 **FranciscoLopes21/FranciscoLopes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
