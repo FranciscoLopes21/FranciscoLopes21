@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLopes21)](https://github.com/FranciscoLopes21/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLopes21&langs_count=10)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLopes21&layout=compact)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoLopes21&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLopes21)](https://github.com/FranciscoLopes21/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLopes21&langs_count=10)
 
 
 **FranciscoLopes21/FranciscoLopes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
